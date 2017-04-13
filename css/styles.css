@@ -1,6 +1,13 @@
 
 
+#browse-carousel {
+    max-width: 300px;
+    margin: auto;
+}
 
+.carousel-inner {
+    padding-left: 0;
+}
 
 .jumbotron {
 	text-align: center;
