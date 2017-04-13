@@ -52,3 +52,12 @@ section header {
 section {
 	padding: 2%;
 }
+
+.well {
+	background-color: #5e78ff;
+	color: #ffffff;
+}
+
+#add-to-watchlist {
+	background-color: #424242;
+}
