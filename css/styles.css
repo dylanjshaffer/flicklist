@@ -60,4 +60,6 @@ section {
 
 #add-to-watchlist {
 	background-color: #424242;
+    max-width: 100%;
+	white-space: normal;
 }
